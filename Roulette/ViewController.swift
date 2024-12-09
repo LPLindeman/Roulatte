@@ -11,8 +11,6 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var gameLabel: UILabel!
     
-    var ganeLabel = "v"
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("👍 View did load!")
